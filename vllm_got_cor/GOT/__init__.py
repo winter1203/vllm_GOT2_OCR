@@ -35,7 +35,7 @@ def init_model_GOT(model_name):
 
 
 # 调用初始化函数，项目启动时加载模型
-model_path = '/home/yd/llm_weights/GOT-OCR2_0'
+model_path = 'GOT-OCR2_0/'
 logger.info('GOT start loading')
 model, tokenizer, image_processor, image_processor_high = init_model_GOT(model_name=model_path)
 logger.info('GOT finish loading')
