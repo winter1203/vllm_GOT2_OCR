@@ -234,8 +234,8 @@ def eval_model(args):
 
 
 if __name__ == "__main__":
-    model_name = '/home/yd/llm_weights/GOT-OCR2_0'
-    image_file = './img/test2.png'
+    model_name = 'GOT-OCR2_0/'
+    image_file = './img/test1.png'
     type = 'ocr'
     parser = argparse.ArgumentParser()
     parser.add_argument("--model-name", type=str, default="facebook/opt-350m")
