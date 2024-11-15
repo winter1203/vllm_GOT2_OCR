@@ -5,7 +5,7 @@
 @Time    :   2024/10/29
 @Author  :   Winter.Yu 
 @Version :   1.0
-@Contact :   winter741258@126.com
+@Contact :   winter741258@gmail.com
 @Desc    :   None
 '''
 
